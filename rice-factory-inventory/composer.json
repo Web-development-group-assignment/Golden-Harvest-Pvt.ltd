@@ -1,0 +1,7 @@
+{
+  "name": "gsw/rice-factory-inventory",
+  "description": "Rice Factory Inventory Management System (PHP)",
+  "type": "project",
+  "require": {},
+  "autoload": {"psr-4": {}}
+}
